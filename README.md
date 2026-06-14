@@ -111,5 +111,3 @@ Once the server starts, open `http://127.0.0.1:8000/docs` in your browser to int
 ---
 
 Developed with 💙 by Team Mahnoor.
-
-```
